@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/CS-roadmap/static/css/main.60342f12.chunk.css",
+    "main.js": "/CS-roadmap/static/js/main.c829b465.chunk.js",
+    "main.js.map": "/CS-roadmap/static/js/main.c829b465.chunk.js.map",
+    "runtime-main.js": "/CS-roadmap/static/js/runtime-main.47c93301.js",
+    "runtime-main.js.map": "/CS-roadmap/static/js/runtime-main.47c93301.js.map",
+    "static/css/2.f3cffc9e.chunk.css": "/CS-roadmap/static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.aa3fda90.chunk.js": "/CS-roadmap/static/js/2.aa3fda90.chunk.js",
+    "static/js/2.aa3fda90.chunk.js.map": "/CS-roadmap/static/js/2.aa3fda90.chunk.js.map",
+    "index.html": "/CS-roadmap/index.html",
+    "precache-manifest.c29f78b761ceb647d1f8dc3f226a71af.js": "/CS-roadmap/precache-manifest.c29f78b761ceb647d1f8dc3f226a71af.js",
+    "service-worker.js": "/CS-roadmap/service-worker.js",
+    "static/css/2.f3cffc9e.chunk.css.map": "/CS-roadmap/static/css/2.f3cffc9e.chunk.css.map",
+    "static/css/main.60342f12.chunk.css.map": "/CS-roadmap/static/css/main.60342f12.chunk.css.map",
+    "static/js/2.aa3fda90.chunk.js.LICENSE.txt": "/CS-roadmap/static/js/2.aa3fda90.chunk.js.LICENSE.txt",
+    "static/media/logo-fundo-colorido.png": "/CS-roadmap/static/media/logo-fundo-colorido.cf2cf2f2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47c93301.js",
+    "static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.aa3fda90.chunk.js",
+    "static/css/main.60342f12.chunk.css",
+    "static/js/main.c829b465.chunk.js"
+  ]
+}
